@@ -1,0 +1,6 @@
+The aim of the project is to create a password generator.
+It should capable of:
+    copying generated password.
+    showing passoword history.
+    change lenght.
+    choose what should it contain, like should it contain digits, lowercase, uppercase, special characters.
